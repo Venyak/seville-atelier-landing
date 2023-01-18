@@ -12,6 +12,8 @@
 
 Seville Atelier – ателье индивидуального пошвива на заказ в Челябинске. Огромный опыт, победы в конкурсах и креативность модельера позволяет создавать неповторимые и красивые образы каждый раз.
 
+<h2 align="center"><a  href="https://venyak.github.io/seville-atelier-landing/">Посмотреть сайт</a></h2>
+
 <p align="center">
 <img src="https://cdn-edge.kwork.ru/files/portfolio/t0/13/aa6e5cfe7542dfc750f964b4aab54d29dc8a6887-1657868813.webp" width="90%"></p>
 
